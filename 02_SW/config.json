@@ -1,8 +1,40 @@
 
 {
     "Sales_data" : "C:/workspace/GitRepo/Grid_testcode/01_document/01_CustomerInput/コーディングテスト_需要予測_河田様/データセット/sales_history.csv",
+    "Sales_data_start" : {
+        "Year" : 2010,
+        "Month" : 1
+        },
+    "Sales_data_end" : {
+        "Year" : 2019,
+        "Month" : 10
+        },
     "Sales_forecast" : "C:/workspace/GitRepo/Grid_testcode/01_document/01_CustomerInput/コーディングテスト_需要予測_河田様/データセット/sales_mikomi.csv",
+    "Sales_forecast_start" : {
+        "Year" : 2019,
+        "Month" : 11
+        },
+    "Sales_forecast_end" : {
+        "Year" : 2019,
+        "Month" : 12
+        },
     "Discount_data" : "C:/workspace/GitRepo/Grid_testcode/01_document/01_CustomerInput/コーディングテスト_需要予測_河田様/データセット/waribiki_history.csv",
-    "Discount_forecast" : "C:/workspace/GitRepo/Grid_testcode/01_document/01_CustomerInput/コーディングテスト_需要予測_河田様/データセット/waribiki_mikomi.csv"
+    "Discount_data_start" : {
+        "Year" : 2010,
+        "Month" : 1
+        },
+    "Discount_data_end" : {
+        "Year" : 2019,
+        "Month" : 10
+        },
+    "Discount_forecast" : "C:/workspace/GitRepo/Grid_testcode/01_document/01_CustomerInput/コーディングテスト_需要予測_河田様/データセット/waribiki_mikomi.csv",
+    "Discount_forecast_start" : {
+        "Year" : 2019,
+        "Month" : 11
+        },
+    "Discount_forecast_end" : {
+        "Year" : 2020,
+        "Month" : 12
+        }
 }
 
